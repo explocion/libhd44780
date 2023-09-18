@@ -1,0 +1,19 @@
+{
+    "name": "libhd44780",
+    "version": "0.1.0",
+    "description": "A \"Hello world\" program is a computer program that outputs \"Hello World\" (or some variant) on a display device",
+    "keywords": "Arduino, LCD, HD44780",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/explocion/libhd44780.git"
+    },
+    "authors": [
+        {
+            "name": "Binhao Qin",
+            "email": "bhqin@umich.edu"
+        }
+    ],
+    "license": "MIT",
+    "frameworks": "Arduino",
+    "platforms": "*"
+}
