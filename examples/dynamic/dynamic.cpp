@@ -12,6 +12,6 @@ void loop() {
   lcd.print(F("1234"));
   delay(2000);
   lcd.set_cursor_addr(0x40);
-  lcd.set_cursor_addr(F("5678"));
+  lcd.print(F("5678"));
   delay(2000);
 }
