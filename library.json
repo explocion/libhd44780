@@ -15,5 +15,10 @@
     ],
     "license": "MIT",
     "frameworks": "Arduino",
-    "platforms": "*"
+    "platforms": "*",
+    "build": {
+        "flags": [
+            "-Wextra"
+        ]
+    }
 }
